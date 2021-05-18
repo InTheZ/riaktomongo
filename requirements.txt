@@ -1,0 +1,10 @@
+faker==4.18.0
+numpy==1.18.5
+flask==1.1.4
+riak
+pymongo
+requests
+configparser
+MarkupSafe==1.1.1
+Werkzeug==1.0.1
+click==7.1.2

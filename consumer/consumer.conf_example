@@ -1,0 +1,11 @@
+[RiakDB]
+Host = localhost
+Port = 8098
+Customers = customers
+Files = files
+Claims = claims
+
+[Mongo]
+MongoURI = mongodb://example_api:example_api@localhost:27017/example_api
+Database = example_api
+Collection = data

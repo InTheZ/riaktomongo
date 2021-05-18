@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+producer/producer.conf
+consumer/consumer.conf
+etl/etl.conf
